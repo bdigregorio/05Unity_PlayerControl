@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="922ab92f-c17c-497c-ae73-15a6614413d1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Prototype 1/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Prototype 1/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Prototype 1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Prototype 1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Materials/SimpleTown.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Course Library/_Source_Files/Materials/SimpleTown.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Prototype 1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Prototype 1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/FollowPlayer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/FollowPlayer.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +75,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608614981897</updated>
-      <workItem from="1608614988085" duration="2846000" />
+      <workItem from="1608614988085" duration="4612000" />
+      <workItem from="1608698902732" duration="2941000" />
     </task>
     <servers />
   </component>

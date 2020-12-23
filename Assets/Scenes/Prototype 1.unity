@@ -596,7 +596,7 @@ Rigidbody:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 205634136}
   serializedVersion: 2
-  m_Mass: 3
+  m_Mass: 1
   m_Drag: 0
   m_AngularDrag: 0.05
   m_UseGravity: 1
@@ -933,7 +933,7 @@ Rigidbody:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 351586581}
   serializedVersion: 2
-  m_Mass: 3
+  m_Mass: 1
   m_Drag: 0
   m_AngularDrag: 0.05
   m_UseGravity: 1
@@ -1012,7 +1012,7 @@ Rigidbody:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 366492909}
   serializedVersion: 2
-  m_Mass: 3
+  m_Mass: 1
   m_Drag: 0
   m_AngularDrag: 0.05
   m_UseGravity: 1
@@ -1177,7 +1177,7 @@ Rigidbody:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 458598056}
   serializedVersion: 2
-  m_Mass: 3
+  m_Mass: 1
   m_Drag: 0
   m_AngularDrag: 0.05
   m_UseGravity: 1
@@ -1285,7 +1285,7 @@ Rigidbody:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 469540265}
   serializedVersion: 2
-  m_Mass: 3
+  m_Mass: 1
   m_Drag: 0
   m_AngularDrag: 0.05
   m_UseGravity: 1
@@ -2864,7 +2864,7 @@ Rigidbody:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1288868285}
   serializedVersion: 2
-  m_Mass: 3
+  m_Mass: 1
   m_Drag: 0
   m_AngularDrag: 0.05
   m_UseGravity: 1
@@ -3289,7 +3289,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7abc32f863386c44398af00a054ad1ef, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 21
+  speed: 18
+  turnSpeed: 28
+  horizontalInput: 0
+  forwardInput: 0
 --- !u!1001 &1522430113
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4473,7 +4476,7 @@ Rigidbody:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2047689774}
   serializedVersion: 2
-  m_Mass: 3
+  m_Mass: 1
   m_Drag: 0
   m_AngularDrag: 0.05
   m_UseGravity: 1
