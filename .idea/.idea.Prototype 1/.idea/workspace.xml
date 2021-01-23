@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="922ab92f-c17c-497c-ae73-15a6614413d1" name="Default Changelist" comment="" />
+    <list default="true" id="922ab92f-c17c-497c-ae73-15a6614413d1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Prototype 1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Prototype 1/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,9 +39,9 @@
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/FollowPlayer.cs" />
-        <option value="$PROJECT_DIR$/Assets/Challenge 1/Scripts/RotatePropeller.cs" />
         <option value="$PROJECT_DIR$/Assets/Challenge 1/Scripts/FollowPlayerX.cs" />
         <option value="$PROJECT_DIR$/Assets/Challenge 1/Scripts/PlayerControllerX.cs" />
+        <option value="$PROJECT_DIR$/Assets/Challenge 1/Scripts/RotatePropeller.cs" />
       </list>
     </option>
   </component>
@@ -93,7 +95,7 @@
       <updated>1608614981897</updated>
       <workItem from="1608614988085" duration="4612000" />
       <workItem from="1608698902732" duration="2941000" />
-      <workItem from="1608711743130" duration="701000" />
+      <workItem from="1608711743130" duration="2030000" />
     </task>
     <servers />
   </component>
